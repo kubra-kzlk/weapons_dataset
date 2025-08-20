@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Stormbreaker",
+    "type": "Axe",
+    "description": "A mighty axe forged by the gods, crackling with thunder.",
+    "image": "https://example.com/images/stormbreaker.png"
+  },
+  {
+    "id": 2,
+    "name": "Shadowfang",
+    "type": "Dagger",
+    "description": "A cursed blade that thrives in darkness and silence.",
+    "image": "https://example.com/images/shadowfang.png"
+  },
+  {
+    "id": 3,
+    "name": "Sunblade",
+    "type": "Sword",
+    "description": "A radiant sword glowing with the eternal light of the sun.",
+    "image": "https://example.com/images/sunblade.png"
+  },
+  {
+    "id": 4,
+    "name": "Frostpiercer",
+    "type": "Spear",
+    "description": "A chilling spear that freezes its victims instantly.",
+    "image": "https://example.com/images/frostpiercer.png"
+  },
+  {
+    "id": 5,
+    "name": "Earthshaker",
+    "type": "Hammer",
+    "description": "A colossal hammer capable of splitting mountains.",
+    "image": "https://example.com/images/earthshaker.png"
+  }
+]
